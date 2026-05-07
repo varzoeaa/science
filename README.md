@@ -26,6 +26,7 @@ This repository contains a collection of scientific Python scripts and animation
 2. Make sure you have Python 3.x and the required packages:
    - `numpy`
    - `matplotlib`
+   - `manim`
 3. Run any script with:
    ```
    python script_name.py
